@@ -12,7 +12,9 @@ body{
 	width: 90%;
   margin: 0 auto;
 }
-
+.container ul li{
+  color: #0E667F;
+}
 }
 .doc-container{
   max-width: 500px;
