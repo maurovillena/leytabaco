@@ -384,7 +384,7 @@ footer li > a:hover{
   }
   }
 @media (max-device-width : 480px){
-  #DOCSLINK{
+  #DOCSLINK li{
     display: none;
     padding: 0px;
   }
