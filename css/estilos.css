@@ -64,6 +64,7 @@ header{
 	width: 100%;
 	top: 0px;
 	position: fixed;
+  z-index: 2000;
 }
 
 h1{
