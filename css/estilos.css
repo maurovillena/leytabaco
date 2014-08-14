@@ -9,11 +9,10 @@ body{
 }
 
 .container{
-	width: 60%;
+	width: 90%;
   margin: 0 auto;
 }
-.container p{
-  max-width: 
+
 }
 .doc-container{
   max-width: 500px;
@@ -370,6 +369,12 @@ footer li > a:hover{
     border-radius: 5px;
   }
   }
+
+@media (min-device-width : 480px){
+  .container{
+  width: 60%;
+}
+}
 
 @media (min-device-width : 480px){
   footer ul li{
