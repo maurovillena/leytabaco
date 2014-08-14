@@ -383,6 +383,13 @@ footer li > a:hover{
     padding: 0px;
   }
   }
+@media (max-device-width : 480px){
+  footer ul{
+    display: none;
+    padding: 0px;
+  }
+  }
+
 /*ID's*/
 #DOCS
 #LEY
@@ -398,6 +405,6 @@ footer li > a:hover{
   padding-top: 50px;
   padding-bottom: 10px;
 }
-
+#DOCSLINK
 /*media queries*/
 
